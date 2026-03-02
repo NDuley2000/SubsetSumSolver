@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module4"
 Sub FindCombinationWithMinNumbersAndHighlightoptimised()
     Dim rng As Range, targetValue As Double
     Dim numArray() As Double, bestResult() As Boolean
@@ -100,4 +99,5 @@ Function FindCombinationOptimised(numArray() As Double, targetValue As Double, c
 NextIteration:
     Loop
 End Function
+
 
