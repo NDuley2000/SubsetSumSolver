@@ -1,1 +1,3 @@
-# SubsetSumSolver
+Manual reconciliations are often time-consuming and are prone to human error. Through this assistive control I created, simple reconciliations that take minutes to solve can be done in a few seconds. This macro can be used during bank reconciliations if there is a transaction on the bank statement and there are outstanding items in the cash book which are hard to match, and when a supplier sends a supplier statement but the purchase ledger items have many foreign looking values. The macro then pinpoints the amounts which match to the discrepancy amount.
+
+This macro also finds the least number of values to match against a specific value. The benefits of this are it allows for more logical matches and allows for a faster solving time. However, this does not replace human judgment. It is simply an assistive tool to help with calculations (think of it as a form of a calculator)
